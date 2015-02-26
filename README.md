@@ -4,9 +4,13 @@ Meeting agenda: http://srqsoftware.github.io/02-25-2015_Introduction_to_NodeJS/
 
 # Tools Used
 [Mongoose to connect with MongoDB](http://mongoosejs.com/docs/index.html)
+
 [Express for rapid server development](http://expressjs.com/)
+
 [Mocha for testing](http://mochajs.org/)
+
 [Chaijs for assertions](http://chaijs.com/)
+
 [NPM for managing packages and the node project](https://www.npmjs.com/)
 
 # Self Learning
