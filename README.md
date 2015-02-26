@@ -2,6 +2,8 @@
 
 Meeting agenda: http://srqsoftware.github.io/02-25-2015_Introduction_to_NodeJS/
 
+Presentation slides: https://docs.google.com/presentation/d/1dA4Y9PFDdE7lB_v-UzP1ZoVcHWvcs8sFtobjtKRKXss/edit?pli=1#slide=id.p
+
 # Tools Used
 [Mongoose to connect with MongoDB](http://mongoosejs.com/docs/index.html)
 
